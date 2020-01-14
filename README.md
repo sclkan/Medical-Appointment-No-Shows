@@ -9,7 +9,7 @@ In this project, we will look for variables that could affect no-show rates. We 
 4. Whether SMS reminders affect no-show rates
 
 ## Source
-Please refer to project_submission.ipynb or download it from Kaggle: [here](https://www.kaggle.com/joniarroba/noshowappointments)
+Please refer to noshowappointments-kagglev2-may-2016.csv or download it from Kaggle: [here](https://www.kaggle.com/joniarroba/noshowappointments)
 
 ## Python Libraries
 Pandas, NumPy, Matplotlib, Seaborn
