@@ -8,6 +8,9 @@ In this project, we will look for variables that could affect no-show rates. We 
 3. Whether Brazilian welfare plans have any impact on no-show rates
 4. Whether SMS reminders affect no-show rates
 
+## Results
+[Investigate_a_Dataset.ipynb](https://github.com/sclkan/Medical-Appointment-No-Shows/blob/master/Investigate_a_Dataset.ipynb)
+
 ## Source
 Please refer to _noshowappointments-kagglev2-may-2016.csv_ or download it from Kaggle: [here](https://www.kaggle.com/joniarroba/noshowappointments)
 
