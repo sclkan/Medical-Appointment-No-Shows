@@ -1,4 +1,4 @@
-# Medical Appointment No Shows Analysis
+# Medical Appointment No-Shows Analysis
 Taken from Kaggle, this dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment.
 
 In this project, we will look for variables that could affect no-show rates. We will be addressing questions such as:
